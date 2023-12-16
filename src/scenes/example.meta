@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "RAAPositive",
+      "targetTime": 17.26904369883248
+    },
+    {
+      "name": "RAA",
+      "targetTime": 26.921051114005365
+    },
+    {
+      "name": "calc",
+      "targetTime": 33.1071122223363
+    },
+    {
+      "name": "quads",
+      "targetTime": 37.05603855886564
+    },
+    {
+      "name": "axes",
+      "targetTime": 48.15118646017352
+    },
+    {
+      "name": "e",
+      "targetTime": 56.85992284773986
+    },
+    {
+      "name": "end",
+      "targetTime": 62.502560982423674
+    }
+  ],
+  "seed": 1512575403
+}

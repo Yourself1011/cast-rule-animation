@@ -1,0 +1,50 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "values1",
+      "targetTime": 8.6381530165666
+    },
+    {
+      "name": "values2",
+      "targetTime": 22.515162020493804
+    },
+    {
+      "name": "values3",
+      "targetTime": 28.616567962081845
+    },
+    {
+      "name": "values4",
+      "targetTime": 32.116567962081845
+    },
+    {
+      "name": "negs",
+      "targetTime": 42.21143130013988
+    },
+    {
+      "name": "quad1",
+      "targetTime": 45.79263967161701
+    },
+    {
+      "name": "quad2",
+      "targetTime": 48.48023352144321
+    },
+    {
+      "name": "quad3",
+      "targetTime": 50.18291765003978
+    },
+    {
+      "name": "quad4",
+      "targetTime": 52.7149994386192
+    },
+    {
+      "name": "cast",
+      "targetTime": 55.58571385765764
+    },
+    {
+      "name": "exampleScene",
+      "targetTime": 60.87455276746332
+    }
+  ],
+  "seed": 3746677162
+}
